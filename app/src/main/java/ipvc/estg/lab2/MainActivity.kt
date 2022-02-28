@@ -32,7 +32,5 @@ class MainActivity : AppCompatActivity() {
 
 // teste no1
 
-// teste no2 - Alteração depois do primeiro commit
-
 
 }
